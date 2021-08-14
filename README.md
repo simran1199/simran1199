@@ -31,11 +31,9 @@ I am an undergraduate student at National Institute of Technology Hamirpur. I am
 <img align="left" width="25px" src="https://raw.githubusercontent.com/edent/SuperTinyIcons/master/images/svg/git.svg" style="padding-right:5px"  />
 <img align="left"  width="25px" src="https://raw.githubusercontent.com/edent/SuperTinyIcons/master/images/svg/sass.svg" style="padding-right:5px"  />
 <img align="left" width="25px" src="https://raw.githubusercontent.com/edent/SuperTinyIcons/master/images/svg/markdown.svg" style="padding-right:5px"  />
-<img align="left"  width="25px" src="https://raw.githubusercontent.com/edent/SuperTinyIcons/master/images/svg/github.svg" style="padding-right:5px"  />
+<img align="left" width="25px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/firebase/firebase.png" style="padding-right:5px"  />
 <img align="left"  width="25px" src="https://raw.githubusercontent.com/patil-prajwal/Tech-Stack-Icons/main/Icons/postman.svg" style="padding-right:5px"  />
 <img align="left" width="25px" src="https://raw.githubusercontent.com/patil-prajwal/Tech-Stack-Icons/main/Icons/swagger.svg" style="padding-right:5px"  />
-<img align="left" width="25px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/firebase/firebase.png" style="padding-right:5px"  />
-<img align="left" width="25px" src="https://raw.githubusercontent.com/tomchen/stack-icons/master/logos/mongodb.svg" />
   
 <br><br>
 
