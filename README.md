@@ -10,7 +10,7 @@
 I am an undergraduate student at National Institute of Technology Hamirpur. I am really passionate about Full-Stack development and like to explore new domains.
 
 ## ⚒  My Experience
-- MLH(Major League Hacking) Fellow'21 (MLH Orientation Hackathon winner 😄)
+- MLH(Major League Hacking) Fellow'21 (MLH Orientation Hackathon and Final Hackathon winner 😄)
 - GSSOC partcipant'21
 - SIH(Smart India Hackathon)'20 Finalist
 - IICDC'19 Finalist
